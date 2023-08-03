@@ -1,4 +1,4 @@
-package uz.ruzibekov.rxjavatest
+package uz.ruzibekov.rxjavatest.ui.main
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
